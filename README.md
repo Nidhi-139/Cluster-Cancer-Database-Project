@@ -17,12 +17,15 @@ Description: - This project aims to predict customer satisfaction using airline 
 •	ML Project - KNN Loan Applicant Credit Risk Analysis
                 (Credit Risk Analysis is K-Nearest Neighbours)
  Description: - This project uses Data-Driven methods to classify loan applicants' risk levels, leveraging attributes like Age, Work Experience, city tenure, and request costs. Through thorough data exploration, preprocessing, and the application of a K-Nearest Neighbors (KNN) classifier, the goal is to improve risk assessment accuracy, optimize loan approval processes, and gain a competitive advantage in the financial industry by delivering fairer and more informed lending decisions. These efforts aim to enhance operational efficiency and customer satisfaction while minimizing financial risks associated with loan defaults
+
+ 
 •	ML Project - Logistic Regression Titanic Survival
                 (Titanic Survival based on Logistics Regression)
  Description: - This project aims to predict passenger survival on the Titanic by analyzing attributes such as pclass, sex, Age, fare, and embarked. It involves thorough data exploration, preprocessing to handle missing values, and applying logistic regression to build a survival prediction model. Evaluation metrics like accuracy, precision, recall, and F1 score assess model performance, while visualizations like confusion matrices and ROC curves provide insights. Implementing predictive analytics enhances operational efficiency, improves safety measures, ensures compliance, and boosts competitive edge in the transportation sector, bolstering overall market position and reputation.
+
+ 
 •	ML Project - Random Forest Hotel Cancellation Prediction
 (Hotel Cancellation Prediction using)
-
 Description:-   This project aims to develop a predictive model using hotel booking data to forecast cancellations, leveraging features like hotel type, meal preference, and booking specifics. Rigorous data preprocessing and Random Forest modeling enhances operational efficiency by optimizing resource allocation and staffing, improves customer satisfaction with proactive service management, and enables revenue optimization through strategic pricing adjustments. By identifying cancellation patterns, the model helps hotels mitigate financial risks associated with no-shows, thereby boosting profitability and competitiveness in the hospitality sector.
 
 •	ML Project - Linear Regression Insurance Prediction
