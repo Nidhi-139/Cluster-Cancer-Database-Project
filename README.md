@@ -1,4 +1,5 @@
 Project Title: Cancer Database Clustering Using Machine Learning
+
 Project Description:
 This project involves the use of clustering techniques to analyze and group data from a cancer dataset. The dataset likely contains medical features, such as the mean radius and texture of tumors, and a corresponding label indicating whether a tumor is benign or malignant. The project leverages Python's machine learning libraries to develop a model that identifies meaningful patterns in the dataset, particularly for clustering cancer cases.
 
@@ -39,7 +40,11 @@ Tools Used:
 Programming Language: Python
 
 Libraries:
+
 Pandas: For data manipulation and handling.
+
 NumPy: For numerical computations.
+
 Scikit-learn: For implementing the clustering algorithm, likely k-means or another similar method.
+
 Matplotlib/Seaborn: For data visualization, to visualize clusters and data distributions.
