@@ -11,12 +11,14 @@ The project likely resulted in the successful clustering of cancer data points, 
 Grouping data points based on tumor features.
 Identifying patterns that could help medical professionals better understand the characteristics of cancerous and non-cancerous growths.
 Potential identification of outliers or unusual data points that warrant further investigation.
+
 Benefit to the Real World:
 This project holds significant real-world benefits, particularly in the medical domain:
 
 Early Detection: Clustering algorithms can help in identifying potential malignancies earlier by revealing patterns in tumor characteristics.
 Data-Driven Insights: Medical professionals can use these insights to tailor treatment plans and predict the prognosis of patients based on the clustering of their data.
 Non-invasive Decision Support: Automated clustering can support doctors in making more informed, data-driven decisions about patient care.
+
 Benefit to the Company:
 Increased Revenue Potential: Implementing this project could potentially lead to a 20% increase in sales of diagnostic tools or analytics platforms due to improved product offerings and differentiation in the market.
 
@@ -31,6 +33,7 @@ Patient Outcomes Improvement: Companies that offer enhanced diagnostic solutions
 R&D Cost Reduction: Insights gained from clustering can inform research and development, potentially reducing R&D costs by 25% when identifying promising areas for new product development or improvement.
 
 Licensing Revenue: If the clustering algorithm is patentable or can be licensed, this could generate an additional $500,000 in annual licensing fees from other companies seeking to integrate similar solutions.
+
 Tools Used:
 Programming Language: Python
 Libraries:
