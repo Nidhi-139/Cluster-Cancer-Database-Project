@@ -35,7 +35,9 @@ R&D Cost Reduction: Insights gained from clustering can inform research and deve
 Licensing Revenue: If the clustering algorithm is patentable or can be licensed, this could generate an additional $500,000 in annual licensing fees from other companies seeking to integrate similar solutions.
 
 Tools Used:
+
 Programming Language: Python
+
 Libraries:
 Pandas: For data manipulation and handling.
 NumPy: For numerical computations.
